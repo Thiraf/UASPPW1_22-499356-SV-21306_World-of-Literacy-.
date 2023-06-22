@@ -1,0 +1,38 @@
+.section-calculate{
+    min-height: 600px;
+    justify-content: center;
+}
+
+.input-group{
+    width: 600px;
+    justify-content: center;
+}
+.input-group-text{
+    width: 200px;
+    justify-content: center;
+}
+
+.btn{
+    color: #FFFFFF;
+    width: 200px;
+    background-color: #364f6b;
+    font-family: 'comic sans ms';
+}
+
+.btn:hover{
+    color: #FFFFFF;
+    background-color: #fc5185;;
+}
+
+.span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #output {
+    font-family: 'comic sans ms'; /* Ganti dengan gaya font yang diinginkan */
+    font-size: 30px; /* Ganti dengan ukuran font yang diinginkan */
+    font-weight: normal; /* Ganti dengan ketebalan font yang diinginkan */
+    /* Tambahkan properti CSS lainnya sesuai kebutuhan */
+}
